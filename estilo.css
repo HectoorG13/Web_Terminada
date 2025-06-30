@@ -58,7 +58,7 @@ nav ul a:hover {
 .contenido .articulo div {
     width: 90%;
     padding: 15px;
-    background-color: #222; /* Fondo oscuro para el contenido */
+    background-color: #222; 
     margin-bottom: 15px;
     border-radius: 8px;
     color: #fff;
@@ -75,7 +75,7 @@ nav ul a:hover {
 }
 
 .piedepagina {
-    background-color: #795548; /* Marrón */
+    background-color: #795548; 
     margin-top: 100px;
     padding: 40px 20px;
 }
@@ -83,4 +83,4 @@ nav ul a:hover {
 .piedepagina p {
     color: white;
     font-size: 16px;
-    line-height:
+    line-height: 1.5;}
