@@ -2,13 +2,13 @@
     padding: 0;
     margin: 0;
     font-family: 'Century', 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: #333;
+    color: #fff;
     text-decoration: none;
     text-align: center;
 }
 
 body {
-    background-color: #111; /* Fondo negro */
+    background-color: #111;
 }
 
 .titulo {
@@ -23,7 +23,7 @@ nav ul {
     margin: auto;
     border-radius: 10px;
     list-style-type: none;
-    background-color: #4FC3F7; /* Azul claro que combina con negro y marrón */
+    background-color: #1976D2;
 }
 
 nav li {
@@ -34,13 +34,13 @@ nav li {
 nav a {
     padding: 20px;
     width: auto;
-    color: #222;
+    color: #fff;
     font-weight: bold;
 }
 
 nav ul a:hover {
-    background-color: #0288D1; /* Azul más oscuro para hover */
-    color: white;
+    background-color: #1565C0;
+    color: #FFD54F;
 }
 
 .contenido {
@@ -58,7 +58,7 @@ nav ul a:hover {
 .contenido .articulo div {
     width: 90%;
     padding: 15px;
-    background-color: #222; 
+    background-color: #222;
     margin-bottom: 15px;
     border-radius: 8px;
     color: #fff;
@@ -75,7 +75,7 @@ nav ul a:hover {
 }
 
 .piedepagina {
-    background-color: #795548; 
+    background-color: #795548;
     margin-top: 100px;
     padding: 40px 20px;
 }
@@ -83,4 +83,4 @@ nav ul a:hover {
 .piedepagina p {
     color: white;
     font-size: 16px;
-    line-height: 1.5;}
+    line-height: 1.6;}
